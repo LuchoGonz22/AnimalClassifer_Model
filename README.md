@@ -38,4 +38,9 @@ nuevo_animal = pd.DataFrame({ <br>
 
 Devuelve [1], ya que la clase 1 es Mamíferos, esta en lo correcto.
  <br>
-<footer>Este pequeño proyecto sigue en desarrollo y en proceso de mejora</footer>
+   
+## Contenido del proyecto:
+   * datasets: Carpeta donde se encuentran los archivos CSV que se utilizaron.
+   * model_classifier: Notebook donde se encuentra la implementación del modelo y demás.
+   
+<footer>Este pequeño proyecto sigue en desarrollo y en proceso de mejora.</footer>
