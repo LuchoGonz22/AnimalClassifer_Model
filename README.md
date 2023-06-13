@@ -36,7 +36,7 @@ nuevo_animal = pd.DataFrame({ <br>
     'catsize': [1], <br>
 })
 
-Devuelve [1], ya que la clase 1 es Mamíferos, esta en lo correcto.
+En este caso, el modelo devolverá la clase 1, correspondiente a "Mammal" (Mamífero), lo cual indica que el animal tiene características similares a las de un león.
  <br>
    
 ## Contenido del proyecto:
