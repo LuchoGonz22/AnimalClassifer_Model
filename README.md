@@ -1,8 +1,8 @@
 <h1 align=center>
    <img src="https://github.com/LuchoGonz22/AnimalClassifer_Model/blob/main/assets/animals.jpg" alt="Descripción de la imagen" width="750" height="400">
   
-# AnimalClassifer_Model
-  
+# Clasificador de Animales
+   
   
 ## Descripción del proyecto:
 Este proyecto se enfoca en la clasificación de animales utilizando un modelo de aprendizaje automático, específicamente el modelo SVC (Support Vector Classifier). Se ha creado un modelo de clasificación basado en un conjunto de características de los animales, como la presencia de pelo, plumas, la capacidad de poner huevos, entre otros. El modelo ha sido entrenado utilizando un conjunto de datos etiquetados y es capaz de predecir la clase a la que pertenece un animal dadas sus características.<br>
