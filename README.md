@@ -5,7 +5,7 @@
   
   
 ## Descripción del proyecto:
-Este proyecto se enfoca en la clasificación de animales utilizando un modelo de aprendizaje automático. Se ha creado un modelo de clasificación basado en un conjunto de características de los animales, como la presencia de pelo, plumas, la capacidad de poner huevos, etc. El modelo se ha entrenado con un conjunto de datos etiquetados y es capaz de predecir la clase de un animal dado sus características.<br>
+Este proyecto se enfoca en la clasificación de animales utilizando un modelo de aprendizaje automático, específicamente el modelo SVC (Support Vector Classifier). Se ha creado un modelo de clasificación basado en un conjunto de características de los animales, como la presencia de pelo, plumas, la capacidad de poner huevos, entre otros. El modelo ha sido entrenado utilizando un conjunto de datos etiquetados y es capaz de predecir la clase a la que pertenece un animal dadas sus características.<br>
  <br>
 Características:
 * Clase 1: Mammal (Mamífero)
